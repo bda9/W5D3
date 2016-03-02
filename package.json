@@ -1,0 +1,20 @@
+{
+  "name": "siri",
+  "version": "1.0.0",
+  "description": "backend to talk with siri",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "keywords": [
+    "siri"
+  ],
+  "author": "David Andelin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
+  }
+}
